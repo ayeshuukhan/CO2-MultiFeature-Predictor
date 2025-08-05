@@ -1,17 +1,17 @@
 # CO2 Emission Prediction using Linear Regression
 
-## 📍 Objective
+## Objective
 
 This project uses **Linear Regression** to predict **CO2 emissions** from a car based on its **engine size** and **fuel consumption** (mileage). The aim is to find how these factors affect the emission of carbon dioxide and build a simple predictive model.
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains:
 - `ENGINESIZE` (in liters)
 - `FUELCONSUMPTION_COMB` (combined fuel usage, L/100 km)
 - `CO2EMISSIONS` (grams/km - our target)
 
-## ⚙️ Methodology
+## Methodology
 
 1. **Data Cleaning**
    - Missing values were handled (if any).
